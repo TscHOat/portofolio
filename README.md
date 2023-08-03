@@ -27,6 +27,19 @@ npm run build
 and then you can open the index.html file from the dist folder in your browser.
 
 ## Credits
-The project was made by me as a homework for the coding bootcamp I am attending.
+The project was made by me using the following technologies:
+* HTML
+* CSS
+* TypeScript
+* Vite
+* React
+* Redux
+* React Router
+* Material UI
+* Material UI Icons
+
+
 ## License
 MIT License
+## Badges
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
